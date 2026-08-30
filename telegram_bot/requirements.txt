@@ -1,0 +1,2 @@
+# The bot logic uses Python's standard library.
+# Telegram authentication is provided by the Replit connector SDK bridge.
